@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "HybridInheritance",
+      "request": "launch",
+      "mainClass": "HybridInheritance",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "MultilevelInheritance",
+      "request": "launch",
+      "mainClass": "MultilevelInheritance",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "MultilevelInheritance",
       "request": "launch",
       "mainClass": "MultilevelInheritance",
