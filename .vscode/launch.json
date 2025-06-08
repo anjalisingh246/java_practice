@@ -3,6 +3,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MultilevelInheritance",
+      "request": "launch",
+      "mainClass": "MultilevelInheritance",
+      "projectName": "JAVA001_474e423a"
+    },
+    {
+      "type": "java",
+      "name": "Multilevelinheritance1",
+      "request": "launch",
+      "mainClass": "Multilevelinheritance1",
+      "projectName": "JAVA001_474e423a"
+    },
+    {
+      "type": "java",
+      "name": "HeirarchicalInheritance",
+      "request": "launch",
+      "mainClass": "HeirarchicalInheritance",
+      "projectName": "JAVA001_474e423a"
+    },
+    {
+      "type": "java",
+      "name": "vowel",
+      "request": "launch",
+      "mainClass": "vowel",
+      "projectName": "JAVA001_474e423a"
+    },
+    {
+      "type": "java",
+      "name": "MultilevelInheritance1",
+      "request": "launch",
+      "mainClass": "MultilevelInheritance1",
+      "projectName": "JAVA001_474e423a"
+    },
+    {
+      "type": "java",
+      "name": "Inheritance1",
+      "request": "launch",
+      "mainClass": "Inheritance1",
+      "projectName": "JAVA001_474e423a"
+    },
+    {
+      "type": "java",
+      "name": "multilevelinheritance1",
+      "request": "launch",
+      "mainClass": "multilevelinheritance1",
+      "projectName": "JAVA001_474e423a"
+    },
+    {
+      "type": "java",
+      "name": "multilevelinheritance",
+      "request": "launch",
+      "mainClass": "multilevelinheritance",
+      "projectName": "JAVA001_474e423a"
+    },
+    {
+      "type": "java",
+      "name": "multilevelinheritancee",
+      "request": "launch",
+      "mainClass": "multilevelinheritancee",
+      "projectName": "JAVA001_474e423a"
+    },
+    {
+      "type": "java",
+      "name": "arra6",
+      "request": "launch",
+      "mainClass": "arra6",
+      "projectName": "JAVA001_474e423a"
+    },
+    {
+      "type": "java",
+      "name": "singleinheritance",
+      "request": "launch",
+      "mainClass": "singleinheritance",
+      "projectName": "JAVA001_474e423a"
+    },
+    {
+      "type": "java",
       "name": "overriding2",
       "request": "launch",
       "mainClass": "overriding2",
