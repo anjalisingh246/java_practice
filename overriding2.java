@@ -1,21 +1,21 @@
 
-class X {
-    X m(){
+class T {
+  T m(){
         System.out.println("hello");
-        return new X();
+        return new T();
     }
 }
-class Y extends X{
-    Y m(){
+class S extends T{
+    S m(){
         System.out.println("hi");
-        return new Y();
+        return new S();
     }
 }
 public class overriding2 {
 	public static void main(String[] args) {
-	Y obj = new Y();
+	S obj = new S();
 	obj.m();
-	X obj1 = new Y();
+	T obj1 = new S();
 	obj1.m();
 	
 	}

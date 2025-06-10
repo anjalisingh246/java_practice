@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "overriding3",
+      "request": "launch",
+      "mainClass": "overriding3",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "overriding",
+      "request": "launch",
+      "mainClass": "overriding",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "overriding2",
+      "request": "launch",
+      "mainClass": "overriding2",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "overriding4",
+      "request": "launch",
+      "mainClass": "overriding4",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "HybridInheritance",
       "request": "launch",
       "mainClass": "HybridInheritance",
