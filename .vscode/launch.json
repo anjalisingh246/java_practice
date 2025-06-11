@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MultipleInheritance",
+      "request": "launch",
+      "mainClass": "MultipleInheritance",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Mage",
+      "request": "launch",
+      "mainClass": "Mage",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "overriding1",
+      "request": "launch",
+      "mainClass": "overriding1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "cloining1",
+      "request": "launch",
+      "mainClass": "cloining1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "cloining",
+      "request": "launch",
+      "mainClass": "cloining",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "overriding3",
       "request": "launch",
       "mainClass": "overriding3",

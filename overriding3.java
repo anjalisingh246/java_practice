@@ -3,15 +3,14 @@ class Sum{
 return a+b+c;
     }
 }
-class adder extends Sum{
+class addition extends Sum{
    static  int add(int a, int b,int c){
-        return a+b;
+        return a+b+c;
     }
 }
 public class overriding3 {
     public static void main(String[] args) {
-        adder s = new adder();
-        s.add(111,111,111);
-    }
-    
+        addition s = new addition();
+        s.add(1,2,3);
+    }  
 }
