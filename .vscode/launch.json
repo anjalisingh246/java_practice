@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "outer",
+      "request": "launch",
+      "mainClass": "Innerclasstest.outer",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "first",
+      "request": "launch",
+      "mainClass": "first",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "first",
+      "request": "launch",
+      "mainClass": "ptrn.first",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "overriding5",
+      "request": "launch",
+      "mainClass": "overriding5",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "OuterMemberInnerTest",
+      "request": "launch",
+      "mainClass": "OuterMemberInnerTest",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "MemberInnerTest",
+      "request": "launch",
+      "mainClass": "MemberInnerTest",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "MemberInner",
+      "request": "launch",
+      "mainClass": "MemberInner",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "MultipleInheritance",
       "request": "launch",
       "mainClass": "MultipleInheritance",
