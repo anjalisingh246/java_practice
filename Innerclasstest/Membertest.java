@@ -1,6 +1,6 @@
 package Innerclasstest;
 
-public class outer {
+ public class Membertest {
     void display(){
         System.out.println("hi");
     }
@@ -8,10 +8,10 @@ public class outer {
 void show(){
     System.out.println("hello");
 }
-    }
-    public static void main(String[] args) {
-        outer o = new outer();
-        outer.inner i =o.new inner();
+}
+  public static void main(String[] args) {
+        Membertest o = new Membertest();
+        Membertest.inner i = o.new inner();
         i.show();
         o.display();
     }
