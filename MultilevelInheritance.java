@@ -3,12 +3,12 @@ class WildAnimal{
    System.out.println("eating");
     }
 }
-class Dog extends WildAnimal{
+class Dog1 extends WildAnimal{
     void bark(){
         System.out.println("barking");
     }
 }
-class Babydog extends Dog{
+class Babydog extends Dog1{
     void weep(){
         System.out.println("weeping");
     }

@@ -3,6 +3,97 @@
   "configurations": [
     {
       "type": "java",
+      "name": "recursion1",
+      "request": "launch",
+      "mainClass": "recursion1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "recursion2",
+      "request": "launch",
+      "mainClass": "recursion2",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "recursion",
+      "request": "launch",
+      "mainClass": "recursion",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "mathclass",
+      "request": "launch",
+      "mainClass": "mathclass",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "cloinging",
+      "request": "launch",
+      "mainClass": "cloinging",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "InnerclassLocal",
+      "request": "launch",
+      "mainClass": "InnerclassLocal",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "InnerclassMember",
+      "request": "launch",
+      "mainClass": "InnerclassMember",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "localtest",
+      "request": "launch",
+      "mainClass": "localtest",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "outertest1",
+      "request": "launch",
+      "mainClass": "outertest1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "thread3",
+      "request": "launch",
+      "mainClass": "thread3",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Testcallrun1",
+      "request": "launch",
+      "mainClass": "Testcallrun1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "thread1",
+      "request": "launch",
+      "mainClass": "thread1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "thread2",
+      "request": "launch",
+      "mainClass": "thread2",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "teacher",
       "request": "launch",
       "mainClass": "teacher",
