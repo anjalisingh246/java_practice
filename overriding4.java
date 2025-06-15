@@ -8,7 +8,7 @@ System.out.println("parent constructor");
 }
 class child extends parent{
     child(){
-        super();
+        //super(); 
         System.out.println("child constructor");
     }
     void m1(){
@@ -18,6 +18,7 @@ class child extends parent{
 public class overriding4 {
     public static void main(String[] args) {
         child c = new child();
+        c.m1();
     }
     
 }

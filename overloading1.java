@@ -1,3 +1,4 @@
+// no. of arguments
 class adder{
    void  add(int a,int b, int c){ 
         System.out.println(a+b+c);
@@ -11,7 +12,5 @@ public class overloading1 {
         adder obj = new adder();
         obj.add(11,11,11);
         obj.add(11,11);
-
-    }
-    
+    }  
 }

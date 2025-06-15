@@ -1,27 +1,29 @@
-// data type of paraameters
-class A1 {
+// sequence of paraameters
+class A2 {
     float rollno ;
     String name;
-    A1(int r,String n){
+    A2(int r,String n){
     rollno = r;
     name = n;
     {
     System.out.println(rollno + " "+ name );
 }
 }
-A1( float r,String n){
+A2( String n, int r){
         rollno = r;
         name = n;{
-        System.out.println(rollno + " " + name );
+        System.out.println(name + " " + rollno );
     }
 }
 }
- class constructoroverloading2 {
+ class constructoroverloading3 {
     
     public static void main(String [] args){
-    A1 a = new A1(20, "ram" );
-    A1 b = new A1(10, "shyam");
+    A2 a = new A2(20, "amit" );
+    A2 b = new A2("sumit",10 );
     }
     }
         
+
+
 

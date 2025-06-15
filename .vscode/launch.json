@@ -3,6 +3,104 @@
   "configurations": [
     {
       "type": "java",
+      "name": "constructoroverloading3",
+      "request": "launch",
+      "mainClass": "constructoroverloading3",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "constructoroverloading2",
+      "request": "launch",
+      "mainClass": "constructoroverloading2",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "constructoroverloading1",
+      "request": "launch",
+      "mainClass": "constructoroverloading1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "constructor3",
+      "request": "launch",
+      "mainClass": "constructor3",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "constructor2",
+      "request": "launch",
+      "mainClass": "constructor2",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "constructor1",
+      "request": "launch",
+      "mainClass": "constructor1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "overloading5",
+      "request": "launch",
+      "mainClass": "overloading5",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "overloading4",
+      "request": "launch",
+      "mainClass": "overloading4",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "overloading2",
+      "request": "launch",
+      "mainClass": "overloading2",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "overloading1",
+      "request": "launch",
+      "mainClass": "overloading1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Sring1",
+      "request": "launch",
+      "mainClass": "Sring1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "stringhbuilder1",
+      "request": "launch",
+      "mainClass": "stringhbuilder1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "stringbuffer1",
+      "request": "launch",
+      "mainClass": "stringbuffer1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "string1",
+      "request": "launch",
+      "mainClass": "string1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "recursion1",
       "request": "launch",
       "mainClass": "recursion1",
