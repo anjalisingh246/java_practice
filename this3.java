@@ -1,15 +1,16 @@
-class Teacher{
-    Teacher(){
+// TO invoke the current class constructor
+class T1{
+    T1(){
         this(10);
         System.out.println("hi");
     }
-    Teacher(int a){
+    T1(int a){
         System.out.println("hello");
     }
 }
 public class this3{
     public static void main(String [] args){
-        Teacher obj = new Teacher();
+        T1 obj = new T1();
     }
 }
 

@@ -1,4 +1,5 @@
-class K{
+// To Invoke current class method
+class L{
     void m(){
         System.out.println("hello");
     }
@@ -9,7 +10,7 @@ class K{
 }
 public class this4 {
     public static void main(String [] args){
-        K obj = new K();
+        L obj = new L();
         obj.n();
     }
     
