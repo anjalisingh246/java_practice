@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "outputstream1",
+      "request": "launch",
+      "mainClass": "outputstream1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "final1",
       "request": "launch",
       "mainClass": "final1",
