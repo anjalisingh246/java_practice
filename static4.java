@@ -1,4 +1,4 @@
-
+// static nested class
 class C1{
     static int v = 50;
     void m1(){

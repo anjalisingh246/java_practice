@@ -1,4 +1,5 @@
- class D {
+// Variable
+class D {
     int rollno ;
     String name;
     static String college = "tit";

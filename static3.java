@@ -1,3 +1,4 @@
+// static block
 class B2{
     static{System.out.println(" static method is invoked");}
     {System.out.println("main method is invoked");}

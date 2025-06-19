@@ -1,3 +1,4 @@
+ // static method
  class Colour {
     int rollno;
     String name;
