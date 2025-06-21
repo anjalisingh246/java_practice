@@ -1,4 +1,5 @@
-public class Array3 {
+// jagged array
+public class Array43 {
     public static void main(String[] args) {
         int arr[][]=new int[4][];
 arr[0]= new int[3];

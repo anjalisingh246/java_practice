@@ -1,4 +1,5 @@
-public class Array4 {
+// some of the two arrays
+public class Array44 {
     public static void main(String [] args){
         int  a[] = {2,3,4,5,6};
         int[] b = {6,7,8,9,10};

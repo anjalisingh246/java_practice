@@ -3,6 +3,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Array11",
+      "request": "launch",
+      "mainClass": "Array11",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Array10",
+      "request": "launch",
+      "mainClass": "Array10",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Array9",
+      "request": "launch",
+      "mainClass": "Array9",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Array7",
+      "request": "launch",
+      "mainClass": "Array7",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Array4",
+      "request": "launch",
+      "mainClass": "Array4",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Array3",
+      "request": "launch",
+      "mainClass": "Array3",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "array2",
+      "request": "launch",
+      "mainClass": "array2",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Array1",
+      "request": "launch",
+      "mainClass": "Array1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Array5",
+      "request": "launch",
+      "mainClass": "Array5",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "Array6",
       "request": "launch",
       "mainClass": "Array6",
