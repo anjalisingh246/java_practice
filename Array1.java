@@ -9,8 +9,9 @@ public class Array1{
         int arr2[]= new int[a];
         for(int i = 0; i <a;i++)
             arr[i]= sc.nextInt();
-            for(int i = 0;i<a;i++)
+            for(int i = 0;i<a;i++){
             arr2[i]=arr[i];
+            }
         System.out.println("elements copied to new array:");
         for(int j = 0;j<a;j++){
             System.out.print(arr2[j]+" ");

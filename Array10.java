@@ -1,4 +1,4 @@
-
+// print the smallest element in an array
 import java.util.*;
 public class Array10{
     public static void main(String[] args) {

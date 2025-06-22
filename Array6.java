@@ -1,4 +1,4 @@
-//priint reverse of the array
+//print the element of an array in reverse order
 import java.util.*;
 public class Array6 {
     public static void main(String[] args){

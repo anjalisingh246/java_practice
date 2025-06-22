@@ -1,4 +1,4 @@
-
+// print the number of elements present in an array
 import java.util.*;
 public class Array11 {
     public static void main(String[] args) {

@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Array14",
+      "request": "launch",
+      "mainClass": "Array14",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "hash",
+      "request": "launch",
+      "mainClass": "hash",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Array12",
+      "request": "launch",
+      "mainClass": "Array12",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Array8",
+      "request": "launch",
+      "mainClass": "Array8",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "Array11",
       "request": "launch",
       "mainClass": "Array11",
