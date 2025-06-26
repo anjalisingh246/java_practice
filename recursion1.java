@@ -1,15 +1,17 @@
-class FactorialExample{
-    public static int factorial(int n){
-if(n == 1 || n == 0)
-return 1;
-else 
-return n*factorial(n-1);
+// calculate factorial
+class recursion1{
+    public static void factorial(int n,int fact){
+        if(n==1||n==0){
+             System.out.println(fact);
+            return ;
+        }
+        fact = fact*n;
+        factorial(n-1,fact);
+       
     }
-}
-public class recursion1{
     public static void main(String[] args) {
-        int num = 6;
-        int result = FactorialExample.factorial(num);
-        System.out.println("factorial of number is:" + result);
+        int n=5;
+        int fact=1;
+        factorial(n,fact);
     }
 }

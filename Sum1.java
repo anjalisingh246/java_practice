@@ -1,16 +1,13 @@
 import java.util.*;
-public class factorial
- {
+public class Sum1 {
      public static void main(String args[]){
         Scanner obj = new Scanner(System.in);
         System.out.print("enter a number:");
        int n = obj.nextInt();
-       int i = 1;
-       int fact = 1;
-        while(i<=n){
-            fact = fact * i;
-            i++;
+       int a = 0;
+        for( int i = 0 ; i <= n ; i++ )
+            a+=i;{
+            System.out.println(a);
         }
-            System.out.println(fact);
      }
 }

@@ -3,6 +3,167 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Power",
+      "request": "launch",
+      "mainClass": "Power",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Recursion5",
+      "request": "launch",
+      "mainClass": "Recursion5",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Recursion4",
+      "request": "launch",
+      "mainClass": "Recursion4",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Function3",
+      "request": "launch",
+      "mainClass": "Function3",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Function2",
+      "request": "launch",
+      "mainClass": "Function2",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Functions1",
+      "request": "launch",
+      "mainClass": "Functions1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Sum1",
+      "request": "launch",
+      "mainClass": "Sum1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Sum",
+      "request": "launch",
+      "mainClass": "Sum",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "sum",
+      "request": "launch",
+      "mainClass": "sum",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "recursion3",
+      "request": "launch",
+      "mainClass": "recursion3",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Arraylist9",
+      "request": "launch",
+      "mainClass": "Arraylist9",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "child1",
+      "request": "launch",
+      "mainClass": "child1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "static5",
+      "request": "launch",
+      "mainClass": "static5",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "ArrayList8",
+      "request": "launch",
+      "mainClass": "ArrayList8",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "ArrayList7",
+      "request": "launch",
+      "mainClass": "ArrayList7",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "ArrayList6",
+      "request": "launch",
+      "mainClass": "ArrayList6",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Arraylist5",
+      "request": "launch",
+      "mainClass": "Arraylist5",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Arraylist4",
+      "request": "launch",
+      "mainClass": "Arraylist4",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "arraylist5",
+      "request": "launch",
+      "mainClass": "arraylist5",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "arraylist4",
+      "request": "launch",
+      "mainClass": "arraylist4",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Arraylist3",
+      "request": "launch",
+      "mainClass": "Arraylist3",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Arraylist2",
+      "request": "launch",
+      "mainClass": "Arraylist2",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "arraylist2",
+      "request": "launch",
+      "mainClass": "arraylist2",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "ArrayList1",
       "request": "launch",
       "mainClass": "ArrayList1",

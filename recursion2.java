@@ -1,3 +1,5 @@
+//print fibonacci sseries
+import java.util.*;
 class RecursionExample2{
    static int n1 = 0;
    static int n2 = 1;
@@ -13,10 +15,13 @@ fibonacci(count - 1);
 }
 }
 public class recursion2 {
-    public static void main(String[] args) {
-        int count = 18;
+       public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+    System.out.print("enter the value of count:");
+    int count = sc.nextInt();
+
         System.out.println(RecursionExample2.n1+" "+ RecursionExample2.n2);
-        RecursionExample2.fibonacci(count - 1);
+        RecursionExample2.fibonacci(count - 2);
 
     }
 }
