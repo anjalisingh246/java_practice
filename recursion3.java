@@ -1,14 +1,14 @@
 // print sum of n natural number
 
 public class recursion3 {
-    public static void printSum(int n,int i,int sum){
+    public static int printSum(int n,int i,int sum){
 if(i==n){
     sum+= n;
     System.out.println(sum);
-    return;
+    return 1;
 }
         sum+= i;
-        printSum(n,i+1,sum);
+    return printSum(n,i+1,sum);
     }
     public static void main (String [] args){
 int i = 1;

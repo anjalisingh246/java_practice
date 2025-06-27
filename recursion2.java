@@ -1,4 +1,4 @@
-//print fibonacci sseries
+//print fibonacci series
 import java.util.*;
 class RecursionExample2{
    static int n1 = 0;
