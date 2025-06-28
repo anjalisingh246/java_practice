@@ -3,6 +3,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Recursion3",
+      "request": "launch",
+      "mainClass": "Recursion3",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Recursion2",
+      "request": "launch",
+      "mainClass": "Recursion2",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Recursion1",
+      "request": "launch",
+      "mainClass": "Recursion1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Arraylist7",
+      "request": "launch",
+      "mainClass": "Arraylist7",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Arraylist10",
+      "request": "launch",
+      "mainClass": "Arraylist10",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Arraylist1",
+      "request": "launch",
+      "mainClass": "Arraylist1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Recursion8",
+      "request": "launch",
+      "mainClass": "Recursion8",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Recursion7",
+      "request": "launch",
+      "mainClass": "Recursion7",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "Recursion6",
       "request": "launch",
       "mainClass": "Recursion6",

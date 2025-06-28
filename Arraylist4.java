@@ -1,22 +1,18 @@
 
+// remove element from ArrayLists by Accessing its values
 import java.util.ArrayList;
-public class Arraylist4 {
+public class ArrayList4 {
     public static void main(String[] args) {
-        ArrayList<Integer> list = new ArrayList<>();
-list.add(10);
-list.add(20);
-list.add(30);
-list.add(40);
-list.add(50);
-list.add(55);
-int target = 50;
+        ArrayList<String> list =new ArrayList<>();
+list.add("Ram");
+list.add("Shyam");
+list.add("Abhishek");
+list.add("Mohan");
 System.out.println(list);
-for(int i=0;i<list.size();i++){
-    for(int j=i+1;j<list.size();j++){
-if(list.get(i)+list.get(j)==target){
-    System.out.println(list.get(i) + "+" + list.get(j)  + "="+ target);
-}
-    } 
-}
-   } 
+list.remove("Shyam");
+list.remove("Abhishek");
+// list.remove(1);
+System.out.println(list);
+    }
+    
 }

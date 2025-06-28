@@ -1,6 +1,6 @@
 // print sum of n natural number
 
-public class recursion3 {
+public class Recursion3 {
     public static int printSum(int n,int i,int sum){
 if(i==n){
     sum+= n;

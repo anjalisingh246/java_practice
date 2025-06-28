@@ -1,35 +1,15 @@
-
-import java.util.*;
- class H6{
-    String name;
-    int salary;
-    H6(String name,int salary){
-        this.name=name;
-        this.salary = salary;
-    }
-}
+// find element at specific index in an arraylist
+import java.util.ArrayList;
 public class Arraylist2 {
     public static void main(String[] args) {
-     ArrayList<H6> employees = new  ArrayList<>();
-     employees.add(new H6("Bhumika",20000));
-    employees.add(new H6("Kanha",30000));
-    employees.add(new H6("Ankita",40000));
-    employees.add(new H6("Tanushka",50000));
-    Scanner sc = new Scanner(System.in);
-    System.out.print("enter what you want to view(name/salary):");
-    String input = sc.nextLine().toLowerCase();
-    if(input.equals("name")){
-        for(H6 a :employees){
-            System.out.println(a.name);
-        }
+        ArrayList<String> list =new ArrayList<>();
+list.add("Ram");
+list.add("Shyam");
+list.add("Abhishek");
+list.add("Mohan");
+System.out.println(list);
+String element = list.get(1);
+System.out.println(element);
     }
-        else if(input.equals("salary")){
-            for(H6 b : employees){
-                System.out.println(b.salary);
-            }
-  }
-else{
-    System.out.println("enter the valid input(name/salary)");
-}
-    }
+    
 }

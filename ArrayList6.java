@@ -1,5 +1,5 @@
 
-// remove element from ArrayLists by Accessing its values
+// find maximum elements present in an arrayList
 import java.util.ArrayList;
 public class ArrayList6 {
     public static void main(String[] args) {
@@ -8,11 +8,7 @@ list.add("Ram");
 list.add("Shyam");
 list.add("Abhishek");
 list.add("Mohan");
-System.out.println(list);
-list.remove("Shyam");
-list.remove("Abhishek");
-// list.remove(1);
-System.out.println(list);
+System.out.println(list.size());
     }
     
 }

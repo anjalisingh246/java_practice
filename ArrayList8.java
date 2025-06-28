@@ -1,13 +1,26 @@
-
-// check if an arraylist empty
+// remove duplicate elements
 import java.util.ArrayList;
 public class ArrayList8 {
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
-        System.out.println("Berofe iteration:"+ list.isEmpty());
-list.add(10);
-list.add(20);
-list.add(30);
-System.out.println("arraylist is  empty :"+list.isEmpty());
-    } 
+        list.add(4);
+        list.add(3);
+        list.add(2);
+        list.add(5);
+        list.add(2);
+        list.add(0);
+        list.add(1);
+        list.add(4);
+System.out.println(list);
+for(int i=0;i<list.size();i++){
+    for(int j=i+1;j<list.size();j++){
+        if(list.get(i)==list.get(j)){
+           list.remove(j);
 }
+        }
+    }
+        System.out.print(list+" ");
+    }
+}
+
+
