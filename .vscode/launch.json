@@ -3,6 +3,90 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayList13",
+      "request": "launch",
+      "mainClass": "ArrayList13",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Recursion10",
+      "request": "launch",
+      "mainClass": "Recursion10",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Static6",
+      "request": "launch",
+      "mainClass": "Static6",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "continue4",
+      "request": "launch",
+      "mainClass": "continue4",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "continue3",
+      "request": "launch",
+      "mainClass": "continue3",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "continue2",
+      "request": "launch",
+      "mainClass": "continue2",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "break5",
+      "request": "launch",
+      "mainClass": "break5",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "break4",
+      "request": "launch",
+      "mainClass": "break4",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "break3",
+      "request": "launch",
+      "mainClass": "break3",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Break2",
+      "request": "launch",
+      "mainClass": "Break2",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Array13",
+      "request": "launch",
+      "mainClass": "Array13",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "REcursion10",
+      "request": "launch",
+      "mainClass": "REcursion10",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "Recursion3",
       "request": "launch",
       "mainClass": "Recursion3",
