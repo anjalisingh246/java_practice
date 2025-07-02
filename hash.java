@@ -8,7 +8,7 @@ public class hash{
            hs.put(3,"2");
            hs.put(4,"4");
            hs.put(5,"3");
-
+           System.out.println(hs);
            System.out.println(hs.get(1));
            hs.remove(5);
        

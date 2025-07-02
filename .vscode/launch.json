@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LinkedList1",
+      "request": "launch",
+      "mainClass": "LinkedList1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "ArrayList13",
       "request": "launch",
       "mainClass": "ArrayList13",
