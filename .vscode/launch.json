@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "Array",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "LinkedList9",
+      "request": "launch",
+      "mainClass": "LinkedList9",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "LinkedList5",
+      "request": "launch",
+      "mainClass": "LinkedList5",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "LinkedList1",
       "request": "launch",
       "mainClass": "LinkedList1",
