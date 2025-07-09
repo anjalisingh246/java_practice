@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "table",
+      "request": "launch",
+      "mainClass": "table",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "Array",
       "request": "launch",
       "mainClass": "Array",
