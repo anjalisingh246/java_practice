@@ -1,3 +1,4 @@
+package pattern;
 
 public class pattern21 {
     public static void main(String[] args) {

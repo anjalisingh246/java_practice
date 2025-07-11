@@ -1,3 +1,4 @@
+// find second largest element
 public class Array{
     public static void main(String[] args) {
         int[] arr = {10, 40, 70, 20, 80, 60, 45};

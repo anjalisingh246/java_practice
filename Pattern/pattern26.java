@@ -1,3 +1,4 @@
+package pattern;
 public class pattern26 {
     public static void main(String[] args) {
         int n=5;

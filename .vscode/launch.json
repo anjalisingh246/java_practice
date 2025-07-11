@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "pattern",
+      "request": "launch",
+      "mainClass": "loop.pattern",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "table",
       "request": "launch",
       "mainClass": "table",
