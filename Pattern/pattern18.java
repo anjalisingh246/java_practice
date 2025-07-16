@@ -1,4 +1,4 @@
-package pattern;
+package Pattern;
 public class pattern18 {
     public static void main(String[] args) {
         int num=1;
