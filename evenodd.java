@@ -10,6 +10,6 @@ public class evenodd {
         else{
             System.out.println("number is odd");
         }
-     }
+    }
 }
 

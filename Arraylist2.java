@@ -10,6 +10,5 @@ list.add("Mohan");
 System.out.println(list);
 String element = list.get(1);
 System.out.println(element);
-    }
-    
+    } 
 }
