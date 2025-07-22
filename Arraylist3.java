@@ -7,7 +7,6 @@ public class Arraylist3 {
         list.add("Shyam");
         list.add("Seeta");
          list.set(0,"Mohan");
-
         System.out.println(list);
     }
 }
