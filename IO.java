@@ -1,5 +1,5 @@
 import java.io.FileOutputStream ;  
-public class F4 {  
+public class IO {  
     public static void main(String args[]){    
            try{    
              FileOutputStream fout = new FileOutputStream("constructor.docx");    
