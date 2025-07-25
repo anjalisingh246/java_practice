@@ -1,3 +1,4 @@
+package String;
 public class Sring1 {
     public static void main(String [] args){
         String s = "hello";
