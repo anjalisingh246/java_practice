@@ -8,7 +8,8 @@ public class Array13 {
         }
         arr[0]=last;
         for(int i=0;i<arr.length;i++){
-            System.out.print("arter right rotation:"+arr[i]+" ");
+            System.out.print(arr[i]+" ");
         }
+        
     }
 }

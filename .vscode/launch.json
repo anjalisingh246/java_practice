@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Array18",
+      "request": "launch",
+      "mainClass": "Array18",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "Sring1",
       "request": "launch",
       "mainClass": "String.Sring1",
