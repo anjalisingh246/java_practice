@@ -1,7 +1,8 @@
+package function;
 // clculate addition of two numbers
 import java.util.Scanner;
 
-public class Functions1 {
+public class Function1 {
     public static int printSum(int a,int b){
        int sum = a+b;
 return sum;
