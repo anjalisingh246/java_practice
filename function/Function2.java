@@ -1,4 +1,6 @@
+package function;
 // calculate product of two numbers
+
 import java.util.Scanner;
 
 public class Function2 {

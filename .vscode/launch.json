@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Function1",
+      "request": "launch",
+      "mainClass": "function.Function1",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
+      "name": "Function2",
+      "request": "launch",
+      "mainClass": "function.Function2",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "Array18",
       "request": "launch",
       "mainClass": "Array18",
