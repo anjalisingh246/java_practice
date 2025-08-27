@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Array20",
+      "request": "launch",
+      "mainClass": "Array20",
+      "projectName": "JAVA001_516d5fbf"
+    },
+    {
+      "type": "java",
       "name": "Break2",
       "request": "launch",
       "mainClass": "Break.Break2",
