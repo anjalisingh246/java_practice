@@ -1,4 +1,6 @@
-public class Static6 {
+
+
+ public class Static6 {
      int i =10;
     {
         m1();
@@ -9,11 +11,13 @@ public class Static6 {
         obj.m1();
         System.out.println("main method parent");
      }
-     
+     {
+        System.out.println("second instance block parent");
+     }
     public  void m1(){
         System.out.println(j);
     }
-    Static6(){
+    Static6{
         System.out.println("constructor parent");
     }
      int j =20;
