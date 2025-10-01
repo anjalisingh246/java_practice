@@ -1,5 +1,5 @@
 import java.util.*;
-    public class Test12[
+    public class Test12{
     public static void main(String[] args) throws InterruptedException{
         Test12 t1= new Test12();
         Test12 t2= new Test12();
@@ -12,7 +12,4 @@ import java.util.*;
 System.out.println("garbage collector called");
 System.out.println(" object garbage collected"+this);
         }
-        
-    
-]
-
+}

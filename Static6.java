@@ -1,6 +1,4 @@
-
-
- public class Static6 {
+public class Static6 {
      int i =10;
     {
         m1();
@@ -17,7 +15,7 @@
     public  void m1(){
         System.out.println(j);
     }
-    Static6{
+    Static6 {
         System.out.println("constructor parent");
     }
      int j =20;
