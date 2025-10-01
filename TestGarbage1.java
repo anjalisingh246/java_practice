@@ -8,6 +8,5 @@ System.out.println("object is garbaage collected");
     s1 = null;
     s2 = null;
     System.gc();
-    }
-    
+    } 
 }
